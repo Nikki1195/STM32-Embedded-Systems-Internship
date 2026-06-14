@@ -1,0 +1,36 @@
+# Day 1 - Environment Setup and installation
+
+## Objective
+Set up the development environment required for the Emertxe Embedded Systems Internship.
+
+## Tools Installed
+
+- STM32CubeIDE
+- PICSimLab
+- STM32 Blue Pill (STM32F103C8T6) simulation environment
+
+## Learning Outcomes
+
+- Understood the EV ADAS project overview.
+- Understood the role of STM32F103C8T6 in embedded systems.
+- Successfully installed and verified STM32CubeIDE.
+- Successfully installed and verified PICSimLab.
+- Explored the Blue Pill simulation board.
+
+## Project Context
+
+This internship project focuses on building an EV ADAS (Advanced Driver Assistance System) Dashboard using:
+
+- STM32F103C8T6 Blue Pill
+- PICSimLab
+- STM32 HAL
+- UART Communication
+- Python Dashboard
+
+## Deliverables Completed
+
+- Environment setup completed.
+- Required software installed and verified.
+- Project requirements reviewed.
+
+completed on 14 june 2026
