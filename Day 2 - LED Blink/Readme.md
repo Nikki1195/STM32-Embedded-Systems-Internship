@@ -1,4 +1,4 @@
-# Day 2 - GPIO LED Blink
+# project 2 - GPIO LED Blink
 
 ## Objective
 
