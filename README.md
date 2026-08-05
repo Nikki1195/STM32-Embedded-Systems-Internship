@@ -116,23 +116,6 @@ The Python Dashboard provides real-time visualization of:
 - ADAS Bird's Eye View
 - Alarm & Fault Status
 
----
-
-## 🖼 Dashboard Preview
-
-> *(Add a screenshot of your dashboard here)*
-
-Example:
-
-```
-images/dashboard.png
-```
-
-Then display it using:
-
-```markdown
-![EV Dashboard](images/dashboard.png)
-```
 
 ---
 
